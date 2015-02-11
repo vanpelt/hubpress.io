@@ -1,0 +1,13 @@
+# On how to choose a stack
+
+In 2007 I left a growing 70 person startup to found my own venture.  I was 26 and I knew everything I needed to know about web development and stacking chips. My stack choices were obvious:
+
+Component | Choice | Regret 
+----------|--------|--------
+Language  | Ruby   | N
+Web Framework | Merb | Y
+Database | Postgres | N
+Database | MongoDB | Y
+JS Framework | MooTools | Y
+Hosting Provider | SliceHost | Y
+
