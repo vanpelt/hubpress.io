@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vanpelt",
-    "repositoryName": "vanpelt.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"vanpelt","repositoryName":"vanpelt.github.io","branch":"master"},"site":{"title":"Van Pelt","url":"http://vanpelt.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://vanpelt.github.io/themes/Casper"}}
